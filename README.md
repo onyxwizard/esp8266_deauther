@@ -132,3 +132,9 @@ For compiling we recommend to use either `1M (256K SPIFFS)` or `4M (3M SPIFFS)`.
 It is also very important to note, that you **must give the SPIFFS some memory**. This software will only work with the SPIFFS enabled, otherwise you will see something like `Initializing SPIFFS...ERROR` on startup.
 
 [Credits: SpacehuhnTech](https://github.com/SpacehuhnTech)
+
+#### Final Boot UP
+
+https://user-images.githubusercontent.com/67966017/233843353-f2a5f39a-55be-4a28-8ae2-9d7f10f52287.mp4
+
+
